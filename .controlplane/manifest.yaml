@@ -1,0 +1,23 @@
+# do not edit — managed by intent-os (intent: b20bd0ac-7619-41bf-acc3-94ca679c4007, version: v1)
+intent_id: b20bd0ac-7619-41bf-acc3-94ca679c4007
+version: v1
+policy_fingerprint: 09a0219869abdf7afc69837a7fb1f530895d9cbc994631e992c03f6153aa6148
+target_id: c4a50e3b-d49a-4c26-88c4-c353b311e932
+repo: Mirai-Labs/intent-os-demo
+provider: github
+base_branch: main
+branch_name: 
+artifacts:
+  - .controlplane/manifest.yaml
+  - .controlplane/context-summary.md
+  - .controlplane/constraints.md
+  - .controlplane/acceptance.md
+  - .controlplane/commands.md
+  - .controlplane/memory.md
+  - AGENTS.md
+  - CLAUDE.md
+  - .cursor/rules/intent-os.mdc
+  - .claude/settings.json
+  - .controlplane/hooks/pretooluse.sh
+  - .controlplane/hooks/posttooluse.sh
+  - .claude/mcp_servers.json
