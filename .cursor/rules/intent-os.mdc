@@ -1,0 +1,13 @@
+// do not edit — managed by intent-os (intent: c71b260a-7316-4d51-bd0c-67d2919ea811, version: v1)
+---
+description: Intent-OS managed cursor rules
+globs:
+  - "**/*"
+---
+
+# Intent-OS Cursor Rules
+
+Read AGENTS.md and .controlplane/constraints.md before making any changes.
+
+All code changes in this repository are governed by an intent-os harness.
+Do not modify files listed in .controlplane/manifest.yaml.
